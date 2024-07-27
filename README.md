@@ -12,6 +12,8 @@ Create an entire ETL process in a database & a Power BI dashboard to utilize the
 	
 4.	METRICS REQUIRED
 
-a.	Total Customers
-b.	Total Churn & Churn Rate
-c.	New Joiners
+     a.	Total Customers
+  	
+     b.	Total Churn & Churn Rate
+  	
+     c.	New Joiners
