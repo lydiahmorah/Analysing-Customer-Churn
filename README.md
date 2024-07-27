@@ -1,4 +1,6 @@
 # Analysing-Customer-Churn
+PROJECT GOALS:
+Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve below goals:
 1.	Analyze Customer Data at below levels
 o	a. Demographic
 o	b. Geographic
