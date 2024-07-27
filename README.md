@@ -1,4 +1,6 @@
 # Analysing-Customer-Churn
+   Tools: SQL  + POWER BI
+  
 
 PROJECT GOALS:
 
