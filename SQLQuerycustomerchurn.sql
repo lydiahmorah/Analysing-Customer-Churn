@@ -1,6 +1,6 @@
--- Data Exploration – 
+-- Data Exploration â€“ 
 -- Check Distinct Values as per
-		--Gender,Contracts,customer status and per state
+--Gender,Contracts,customer status and per state
 
 -- Gender distribution
 SELECT Gender,COUNT(Gender) AS TotalCount,
