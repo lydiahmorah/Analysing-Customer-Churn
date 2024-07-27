@@ -1,4 +1,5 @@
-# Analysing-Customer-Churn  Tools: SQL  + POWER BI
+# Analysing-Customer-Churn 
+# Tools Used: SQL  + POWER BI
    
   
 
